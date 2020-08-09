@@ -5,7 +5,7 @@ This is a short version of a terraform lambda module with some naming structure 
 
 Check more on the following [Medium Post](https://medium.com/@danieldacosta_75030/automating-lambda-modules-deployment-with-gitlab-ci-b34cc58a7ac0).
 
-## Usage:
+## Usage
 
 ```
 module "lambda_sms" {
