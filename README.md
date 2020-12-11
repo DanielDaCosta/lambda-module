@@ -6,7 +6,7 @@ Check more on the following [Automating Lambda Modules Deployment With Gitlab-CI
 
 ## Usage
 
-```
+```terraform
 module "lambda_sms" {
   source = "git@github.com:DanielDaCosta/lambda-module.git"
 
